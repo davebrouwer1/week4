@@ -1,0 +1,172 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+header  {
+    padding: 0;
+    margin: 0;
+}
+
+.logodiv {
+    background-color: gray;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 0px;
+    height: 150px;
+    width: 400px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-left: 20px;
+}
+
+.grijz {
+    background-color: rgb(187, 187, 187);
+    display:block;
+    width: 100%;
+    height: 15px;
+}
+
+.langebalk {
+    background-color:gray;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 0px;
+    height: 150px;
+    width: 1250px;
+    color: rgba(0, 0, 0, 0.5);
+    float: right;
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+.parent {
+    display: flex;
+}
+.grijs {
+    background-color: rgb(187, 187, 187);
+    display: block;
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.parent2 {
+    display:flex;
+}
+
+.grootblok {
+    background-color:gray;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 15px;
+    height: 400px;
+    width: 800px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+.parentklein {
+    display: flex;
+    flex-direction: column;
+}
+
+.klein {
+    background-color:gray;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: static;
+    height: 195px;
+    width: 400px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-left: 0px;
+    margin-top: 15px;
+}
+
+.klein2 {
+    background-color:gray;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 195px;
+    width: 400px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.lijntje {
+    background-color: rgb(187, 187, 187);
+    display: block;
+    width: 100%;
+    height: 2px;
+    margin-top: 30px;
+}
+
+.wow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 12.5px;
+}
+
+.parentblokjes {
+    display: flex;
+    flex-direction: row;
+}
+
+.blokjes {
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    width: 20%;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.kijkhier {
+    display: flex;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.halflijntje {
+    background-color: rgb(187, 187, 187);
+    display: block;
+    width: 50%;
+    height: 2px;
+    margin-top: 30px;
+}
+
+.verticaal {
+    background-color: rgb(187, 187, 187);
+    display: block;
+    position: relative;
+    left: 775px;
+    width: 2px;
+    bottom: 450px;
+    height: 475px;
+    margin-top: 0px;
+}
